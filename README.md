@@ -1,1 +1,5 @@
-# portable-weather-station
+# Off Grid Weather Station
+
+For the club I lead here at New Mexico Tech, we try to work on at least one project per semester to give the students something to do. The idea of a weather station was brought up several times and when the technical communications class I was taking at the time assigned a project proposal, I took the chance to write up the weather station idea. proposal.pdf is result of that effort; it is not exactly how I would want to format and present it, but I had to follow the rough format and it does get across what I want.
+
+I want the students to get involved and do most of the work on this project, but this seems to be little interest between them as of now. If it sits for too long, I plan to start working on it solo, but hopefully, it does not come to that. So for now, it will just stay as a general outline until someone picks it up.
